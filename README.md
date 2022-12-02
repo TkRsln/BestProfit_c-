@@ -1,7 +1,7 @@
 # BestProfit_c-
 an solution for the problem
 
-<br>function names & description
+<br><b>function names & description</b>
 
 - findNextSale():
 <br>finds a value where previus value is higher.
